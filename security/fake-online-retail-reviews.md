@@ -35,15 +35,20 @@ How to think about this ^.  Expensive items will not sell in large quantities or
 
 If a $2,500 USD watch has 2,500 reviews, and those reviews were all made in 2021, you can say with 100% certainty that it is fake or the reviews are fake - so proceed with caution.  Based on the numbers above, you should ask yourself, “Does the total number of reviews match the item? 
 
-```
-Example: I just found a product on amazon where the seller is adding fake reviews either themselves, or by paying for bots/click-farms to do them.
-Product: Random-Name “Designer” Sun Glasses that were zebra colored and a design only a very small amount of people would like
-Price: $250 USD + $10 Shipping
-Review: 4.9 Starts
-Total Reviews: 10,528
+
+#### Example: 
+I just found a product on amazon where the seller is adding fake reviews either themselves, or by paying for bots/click-farms to do them.
+
+| Parameter | Description                |
+| :-------- | :------------------------- |
+| Product   | Random-Name “Designer” Sun Glasses that were zebra colored and a design only a very small amount of people would like |
+| Price     | $250 USD + $10 Shipping |
+| Review    | 4.9 Starts |
+| Total Reviews   | 10,528 |
+
 Total 5 Star Reviews: 10,304How many legitimate people would need to purchase these sunglasses to get 10,500 reviews?
 Lets do the math based on the numbers above: 10,500 reviews X 100 (legit orders-based on the above breakdown) = 1,050,000 (this means that in order to get this many real reviews, over 1 million people would have to buy these sunglasses - I would bet my career that 1 million people are not walking around with these sunglasses when even Nike Shoes do not have this many sales on Amazon)
-```
+
 
 2. The total timeframe the reviews were added. Look at the date the reviews were added. There should be an even spread across each month and year since the item was posted. For example if the item posted in January 2018, and it has 100 reviews in 2018, 150 reviews in 2019, 160 reviews in 2020, and 80 reviews so far in 2021, this would be considered high probability of being authentic. If the item was posted in January 2019, and had 150 reviews in 2019, and 4500 reviews in 2020, 34 in 2021, you know the reviews in 2020 were likely bots or click farms.
 3. Up-Votes: Most legitimate reviews will get around 5 legit up-votes. If a review has greater than 20 upvotes, be suspicious
