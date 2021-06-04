@@ -1,36 +1,33 @@
 # Fake Online Retail Reviews 
  
-There have been a massive influx in fake online retail reviews, especially on Amazon (this information is coming direct from the Amazon Fraud Team), and there have also been a huge about of fraudulent products hitting the market on Amazon. I was asked today by Arie if I could provide some tips on how to spot fake reviews, fake products, or suspicious activity on Amazon. Here are some tips and tricks to make you a better shopper, and to help protect you and your family from fraud while shopping online (I use amazon as an example as I trained with their fraud team on this, and they were kind enough to provide me some of the info, but this applies across any and all ecommerce sites that have review systems)Advice 1: Check out many of the free review analyzers out there. The best one is www.fakespot.com - Just copy the URL link to the product your looking at, and paste it into their free machine learning review search bar. It will analyze the listing, seller, and reviewers, then produce a score for you - and it is totally free + you do not need an account or need to give them any information at all.Best way to identify fraudulent reviews (these are what the Amazon fraud team looks for):
+There have been a massive influx in fake online retail reviews, especially on Amazon (this information is coming direct from the Amazon Fraud Team), and there have also been a huge about of fraudulent products hitting the market on Amazon. 
+
+I was asked today by Arie if I could provide some tips on how to spot fake reviews, fake products, or suspicious activity on Amazon. 
+
+Here are some tips and tricks to make you a better shopper, and to help protect you and your family from fraud while shopping online (I use amazon as an example as I trained with their fraud team on this, and they were kind enough to provide me some of the info, but this applies across any and all ecommerce sites that have review systems)
+
+### Advice 
+
+1. Check out many of the free review analyzers out there. The best one is www.fakespot.com - Just copy the URL link to the product your looking at, and paste it into their free machine learning review search bar. It will analyze the listing, seller, and reviewers, then produce a score for you - and it is totally free + you do not need an account or need to give them any information at all.  
+
+   Best way to identify fraudulent reviews (these are what the Amazon fraud team looks for):
 
 1.    Most important - The total number of reviews. Across Amazon, normally, it takes the following total orders to receive 1 legitimate review:
 
-·         Electronics = >90 legitimate orders to get 1 legitimate review (so the guy was correct with electronics but not all products)
-
-·         Clothing = >50 legitimate orders to get 1 legitimate review
-
-·         Shoes = >50 legitimate orders to get 1 legitimate review
-
-·         Computers = >100 legitimate orders to get 1 legitimate review
-
-·         Supplements = >50 legitimate orders to get 1 legitimate review
-
-·         Watches = >50 legitimate orders to get 1 legitimate review
-
-·         Items less than $10 = >1,000 legitimate orders to get 1 legitimate review
-
-·         Sunglasses = >100 legitimate orders to get 1 legitimate review
-
-·         Designer Items like Rolex and anything Katie would buy =  > $1,000) = 500 legitimate orders to get 1 legitimate review (this is because the people that have the money to drop large dollar amounts on expensive items usually do not care enough to spend the time to go through and review the order statistically
-
-·         Bikes = >25 legitimate orders to get 1 legitimate review
-
-·         Food = >1,500 legitimate orders to get 1 legitimate review
-
-·         Baby Items = >10 legitimate orders to get 1 legitimate review (moms are nuts and will review everything)
-
-·         Supplements (or anything that you put inside your body) = >25 legitimate orders to get 1 legitimate review
-
-·         Skincare = >50 legitimate orders to get 1 legitimate review
+* Electronics = >90 legitimate orders to get 1 legitimate review (so the guy was correct with electronics but not all products)
+* Clothing = >50 legitimate orders to get 1 legitimate review
+* Shoes = >50 legitimate orders to get 1 legitimate review
+* Computers = >100 legitimate orders to get 1 legitimate review
+* Supplements = >50 legitimate orders to get 1 legitimate review
+* Watches = >50 legitimate orders to get 1 legitimate review
+* Items less than $10 = >1,000 legitimate orders to get 1 legitimate review
+* Sunglasses = >100 legitimate orders to get 1 legitimate review
+* Designer Items like Rolex and anything Katie would buy =  > $1,000) = 500 legitimate orders to get 1 legitimate review (this is because the people that have the money to drop large dollar amounts on expensive items usually do not care enough to spend the time to go through and review the order statistically
+* Bikes = >25 legitimate orders to get 1 legitimate review
+* Food = >1,500 legitimate orders to get 1 legitimate review
+* Baby Items = >10 legitimate orders to get 1 legitimate review (moms are nuts and will review everything)
+* Supplements (or anything that you put inside your body) = >25 legitimate orders to get 1 legitimate review
+* Skincare = >50 legitimate orders to get 1 legitimate review
 
 :dancing-penquin:1
 
